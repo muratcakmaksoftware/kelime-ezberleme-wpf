@@ -1,0 +1,3 @@
+﻿why,cause	neden,sebep	dava,amaç,sorun,gaye
+eat,food	yemek,gıda	besin,tüketmek
+love,affection	aşk,sevgi	hayranlık,eğilim
